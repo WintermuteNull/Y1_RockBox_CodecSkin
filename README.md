@@ -1,6 +1,8 @@
 # Y1_RockBox_CodecSkin
 A Metal Gear Solid inspired skin for Innioanis Y1 on RockBox
 
+Released under CC-BY-SA 4.0
+
 This theme takes heavy inspiration from the menu elements of Metal Gear Solid Subsistence for the menus, as well as the codec for the now playing screen.
 Nods to the series include static text elements on the .sbs screen taking inspiration from text within the wall textures in VR levels. Likewise the bounding box used for "PLAY" status etc. is based on the "VR-SYSTEM" text found on a few wall panels within the VR levels. 
 The battery indicator on the .sbs screen is a nod to the MGS2 style alert/evasion/caution radar phases, while in the Now Playing screen the MGS1 radar was used where I felt there was more space to play with. 
